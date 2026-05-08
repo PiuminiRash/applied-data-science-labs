@@ -25,9 +25,6 @@ The series covers the end-to-end Machine Learning pipeline:
    ```bash
    git clone (https://github.com/PiuminiRash/applied-data-science-labs.git)
 
-  ```
-  ```
-
 2. Ensure you have the necessary libraries installed:
   ```bash
   pip install pandas numpy scikit-learn matplotlib seaborn
